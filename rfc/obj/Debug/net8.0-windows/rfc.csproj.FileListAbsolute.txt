@@ -1,0 +1,16 @@
+C:\Users\jsdas\source\repos\rfc\rfc\bin\Debug\net8.0-windows\rfc.exe
+C:\Users\jsdas\source\repos\rfc\rfc\bin\Debug\net8.0-windows\rfc.deps.json
+C:\Users\jsdas\source\repos\rfc\rfc\bin\Debug\net8.0-windows\rfc.runtimeconfig.json
+C:\Users\jsdas\source\repos\rfc\rfc\bin\Debug\net8.0-windows\rfc.dll
+C:\Users\jsdas\source\repos\rfc\rfc\bin\Debug\net8.0-windows\rfc.pdb
+C:\Users\jsdas\source\repos\rfc\rfc\obj\Debug\net8.0-windows\rfc.Form1.resources
+C:\Users\jsdas\source\repos\rfc\rfc\obj\Debug\net8.0-windows\rfc.csproj.GenerateResource.cache
+C:\Users\jsdas\source\repos\rfc\rfc\obj\Debug\net8.0-windows\rfc.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jsdas\source\repos\rfc\rfc\obj\Debug\net8.0-windows\rfc.AssemblyInfoInputs.cache
+C:\Users\jsdas\source\repos\rfc\rfc\obj\Debug\net8.0-windows\rfc.AssemblyInfo.cs
+C:\Users\jsdas\source\repos\rfc\rfc\obj\Debug\net8.0-windows\rfc.csproj.CoreCompileInputs.cache
+C:\Users\jsdas\source\repos\rfc\rfc\obj\Debug\net8.0-windows\rfc.dll
+C:\Users\jsdas\source\repos\rfc\rfc\obj\Debug\net8.0-windows\refint\rfc.dll
+C:\Users\jsdas\source\repos\rfc\rfc\obj\Debug\net8.0-windows\rfc.pdb
+C:\Users\jsdas\source\repos\rfc\rfc\obj\Debug\net8.0-windows\rfc.genruntimeconfig.cache
+C:\Users\jsdas\source\repos\rfc\rfc\obj\Debug\net8.0-windows\ref\rfc.dll
